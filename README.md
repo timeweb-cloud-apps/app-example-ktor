@@ -4,7 +4,7 @@
 
 Пример приложения [Ktor](https://ktor.io/), которое можно развернуть в Timeweb Cloud Apps без настройки.
 
-🎉 [Демо](https://timeweb-cloud-apps-app-example-ktor-0827.twc1.net)
+🎉 [Демо](https://twc-app-example-ktor.twc1.net/)
 
 🚀 [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
